@@ -18,7 +18,7 @@ The model comes from a study of how many annotated frames and training epochs De
 
 ## Citation
 
-Wang, C.-W., & Chiu, C. (2026). *How much is enough? Estimating annotation requirements for DeepLabCut tracking of coronal ultrasound tongue images* [Poster P1.01]. Ultrafest XII, Université Paris Cité, Paris, France, 19–20 November 2026.
+Wang, C.-W., & Chiu, C. (2026). *How much is enough? Estimating annotation requirements for DeepLabCut tracking of coronal ultrasound tongue images* [Poster presentation]. Ultrafest XII, Université Paris Cité, Paris, France, 19–20 November 2026.
 
 ## Contact
 
