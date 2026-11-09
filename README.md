@@ -1,6 +1,6 @@
 # Coronal Ultrasound DeepLabCut Model
 
-A DeepLabCut model for tracking the tongue surface in coronal ultrasound images, developed at the Speech Behavior and Science (SBS) Lab, Graduate Institute of Linguistics, National Taiwan University.
+A DeepLabCut model for tracking the tongue surface in coronal ultrasound images, developed at the [Speech Behavior and Science (SBS) Lab](https://github.com/sbs-ntu), Graduate Institute of Linguistics, National Taiwan University.
 
 ## Status
 
